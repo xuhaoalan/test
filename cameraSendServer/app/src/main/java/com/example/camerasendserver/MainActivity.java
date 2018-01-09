@@ -95,7 +95,8 @@ public class MainActivity extends Activity {
 
     static Intent mResultIntent;
     static int mResultCode;
-    public static final int REQUEST_MEDIA_PROJECTION = 1002;
+    public static final int REQUEST_MEDIA_PROJECTION = 1002;  
+	public int testindex = 0;//xuhao add
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
