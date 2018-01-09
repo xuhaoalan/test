@@ -1,0 +1,4 @@
+#Wed Dec 27 12:59:05 CST 2017
+base.0=/home/zhaokun/AndroidStudioProjects/copydata/cameraSendServer/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

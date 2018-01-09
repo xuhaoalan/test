@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/zhaokun/AndroidStudioProjects/copydata/cameraSendServer/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/zhaokun/AndroidStudioProjects/copydata/cameraSendServer/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "56,110,163,203",
+                        "endColumns": "53,52,39,37",
+                        "endOffsets": "105,158,198,236"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,109,162,202",
+                        "endColumns": "53,52,39,37",
+                        "endOffsets": "104,157,197,235"
+                    }
+                }
+            ]
+        }
+    ]
+}
